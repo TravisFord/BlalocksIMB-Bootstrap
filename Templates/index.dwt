@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+<head>
+	<link	href="../css/styles.css" rel="stylesheet"  type="text/css" media="screen">
+	<!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->
+</head>
+ 
+<body>
+	<div id="wrapper">
+	<div id="name"> 
+   	  <h1>Blalock's IMB</h1>
+   	  
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+    </div>
+	<div id="topnav">
+	  <ul>
+	    <li><a href="../index.html">Home</a></li>
+            <li><a href="../schedule.html">schedule</a></li>
+            <li><a href="../media.html">media</a></li>
+			<li><a href="../fighters.html">fighters</a></li>
+            <li><a href="../contact.html">contact</a></li>
+            <div align="center"></div>
+      </ul>
+</div>
+    
+    <div id="banner">
+    	<div align="center">
+    	  <p align="right">&nbsp;</p>
+    	</div>
+    </div>
+    
+    
+    
+    
+<div id="content">
+    	<h1>Chet Blalock</h1>
+         <h3>Chet Blalock is the owner of Blalock's International Martial Arts and Boxing. In the state of Tennessee he was the first American to be promoted to Black Belt in Brazilian Jiu-Jitsu (January 2004, Allan Goes). He is a sixth degree black belt in Joe Lewis Fighting Systems and a fully certified instructor of Muay Thai, Boxing, Jun Fan JKD and Eskrima.</h3>
+         <img src="../images/photos/chet eli1.jpg"></div>
+ 
+
+<div id="rightside">
+   		<h2> Sidebar header</h2>
+</div>
+    
+   
+   
+<div id="footer">
+    	<p>copyright 2015
+</div>
+
+ 
+</div>
+</body>
+</html>

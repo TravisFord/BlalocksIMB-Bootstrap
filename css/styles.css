@@ -1,0 +1,21 @@
+/* CSS Document */
+
+*			{	margin:0;	padding:0;	border:0;	}
+
+body.home	    { color:white; background color:#FFF; background-image:url(../images/photos/gym3.jpg); background-size: cover; }
+body.schedule	{ color:white;background color:#FFF; background-image:url(../images/photos/gmy4.jpg); background-size: cover; }
+body.news	{ color:white;background color:#FFF; background-image:url(../images/photos/gyms2.jpg); background-size: cover; }
+body.media   { color:white;background color:#FFF; background-image:url(../images/photos/gym5.jpg); background-size: cover; }
+body.contact  { color:white;background color:#FFF; background-image:url(../images/photos/gyms.jpg); background-size: cover; }
+#wrapper	{width:900px; margin:0px auto; background-color:#000000; padding:30px;    }
+#topnav ul li {display:inline; margin-left:15px;	}
+#name		{width:300px; float:left; margin-bottom:30px; 	}	
+#topnav  	{width:550px;float:right;  	}
+#topnav ul  {text-align:right; padding-right:15px;			}
+.navi	    {margin-left:10px; color:red;}
+#banner		{clear:both; margin:30px 0;   }
+#content 	{width:500px; float:left; 		}
+#rightside	{width:300px; float:right;	 	}
+#footer		{clear:both; text-align: right;   }
+.blalocks1	{margin: 0 auto;}
+.schedule	{margin: 0 auto;}

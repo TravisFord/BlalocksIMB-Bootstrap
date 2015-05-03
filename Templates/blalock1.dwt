@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+<head>
+	<link	href="../css/styles.css" rel="stylesheet"  type="text/css" media="screen">
+    <link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
+    
+    
+    <style type="text/css">
+	body {color: white;}
+	</style>
+    
+ <script type="text/javascript" src="js/prototype.js"></script>
+<script type="text/javascript" src="js/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="js/lightbox.js"></script>
+    
+    
+    
+    
+    
+    <!-- TemplateBeginEditable name="head" -->
+    
+    <!-- TemplateEndEditable -->
+</head>
+
+
+ 
+<body>
+
+
+
+
+
+
+<div id="wrapper">
+	<div id="name"> 
+   	  <h1>Blalock's IMB</h1>
+        <img src="../images/banner/936883_128420994021254_1840795357_n.png">
+    	<h3>where champions make champions!</h3>
+       
+    </div>
+	<img src="../images/banner/blalocks2.jpg" width="596" height="221" alt=""/>
+	<div id="topnav">
+	  <ul>
+	    	<li><a href="../index.html">Home</a></li>
+            <li><a href="../schedule.html">schedule</a></li>
+            <li><a href="../news and events.html">news and events</a> </li>
+        <li><a href="../media.html">media</a></li>
+		<li><a href="../fighters.html">fighters</a></li>
+            <li><a href="../contact.html">contact</a></li>
+        <div align="center"></div>
+      </ul>
+</div>
+    
+    <div id="banner">
+    <!-- TemplateBeginEditable name="banner" -->
+    	<div align="center">
+    	  <p align="center"><img src="../images/photos/gym3.jpg" width="864" height="486" alt=""/></p>
+    	</div>
+    </div>
+    <!-- TemplateEndEditable -->
+    
+    
+    
+  <div id="content">
+    	<!-- TemplateBeginEditable name="content" -->
+    
+     
+         
+         <!-- TemplateEndEditable -->
+         
+         </div>
+ 
+
+<div id="rightside">
+   		
+</div>
+    
+   
+   
+<div id="footer">
+    	
+</div>
+
+
+</div>
+</body>
+</html>
